@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "if_else and loops/1.0.0": {
+        "runtime": {
+          "if_else and loops.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "if_else and loops/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arfmetik amallar", "Arfmetik amallar\Arfmetik amallar.csproj", "{EC4E3E9E-299B-42BE-94FA-0B676328AB6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4E3E9E-299B-42BE-94FA-0B676328AB6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4E3E9E-299B-42BE-94FA-0B676328AB6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4E3E9E-299B-42BE-94FA-0B676328AB6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4E3E9E-299B-42BE-94FA-0B676328AB6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32590DAE-B69D-4145-BC95-ED5F0BFF6067}
+	EndGlobalSection
+EndGlobal

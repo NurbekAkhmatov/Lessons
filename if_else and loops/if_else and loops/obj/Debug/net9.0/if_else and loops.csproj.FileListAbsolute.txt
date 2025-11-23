@@ -1,0 +1,15 @@
+C:\Projects\Lessons\if_else and loops\if_else and loops\bin\Debug\net9.0\if_else and loops.exe
+C:\Projects\Lessons\if_else and loops\if_else and loops\bin\Debug\net9.0\if_else and loops.deps.json
+C:\Projects\Lessons\if_else and loops\if_else and loops\bin\Debug\net9.0\if_else and loops.runtimeconfig.json
+C:\Projects\Lessons\if_else and loops\if_else and loops\bin\Debug\net9.0\if_else and loops.dll
+C:\Projects\Lessons\if_else and loops\if_else and loops\bin\Debug\net9.0\if_else and loops.pdb
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\if_else and loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\if_else and loops.AssemblyInfoInputs.cache
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\if_else and loops.AssemblyInfo.cs
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\if_else and loops.csproj.CoreCompileInputs.cache
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\if_else and loops.sourcelink.json
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\if_else and loops.dll
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\refint\if_else and loops.dll
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\if_else and loops.pdb
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\if_else and loops.genruntimeconfig.cache
+C:\Projects\Lessons\if_else and loops\if_else and loops\obj\Debug\net9.0\ref\if_else and loops.dll
