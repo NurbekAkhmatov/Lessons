@@ -1,0 +1,15 @@
+C:\Projects\Lessons\while and do-while\while and do-while\bin\Debug\net9.0\while and do-while.exe
+C:\Projects\Lessons\while and do-while\while and do-while\bin\Debug\net9.0\while and do-while.deps.json
+C:\Projects\Lessons\while and do-while\while and do-while\bin\Debug\net9.0\while and do-while.runtimeconfig.json
+C:\Projects\Lessons\while and do-while\while and do-while\bin\Debug\net9.0\while and do-while.dll
+C:\Projects\Lessons\while and do-while\while and do-while\bin\Debug\net9.0\while and do-while.pdb
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\while and do-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\while and do-while.AssemblyInfoInputs.cache
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\while and do-while.AssemblyInfo.cs
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\while and do-while.csproj.CoreCompileInputs.cache
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\while and do-while.sourcelink.json
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\while and do-while.dll
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\refint\while and do-while.dll
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\while and do-while.pdb
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\while and do-while.genruntimeconfig.cache
+C:\Projects\Lessons\while and do-while\while and do-while\obj\Debug\net9.0\ref\while and do-while.dll
