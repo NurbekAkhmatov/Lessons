@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Projects\\Lessons\\List\\",
+  "WorkspaceRootPath": "C:\\Projects\\Lessons\\Massiv\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{00DC2051-11F7-408A-BBF6-EBE4CE186EEF}|List\\List.csproj|c:\\projects\\lessons\\list\\list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00DC2051-11F7-408A-BBF6-EBE4CE186EEF}|List\\List.csproj|solutionrelative:list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3CFEFD4C-A746-41BD-AF8B-7F4AEB6036D8}|Massiv\\Massiv.csproj|c:\\projects\\lessons\\massiv\\massiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CFEFD4C-A746-41BD-AF8B-7F4AEB6036D8}|Massiv\\Massiv.csproj|solutionrelative:massiv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projects\\Lessons\\List\\List\\Program.cs",
-              "RelativeDocumentMoniker": "List\\Program.cs",
-              "ToolTip": "C:\\Projects\\Lessons\\List\\List\\Program.cs",
-              "RelativeToolTip": "List\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Lessons\\Massiv\\Massiv\\Program.cs",
+              "RelativeDocumentMoniker": "Massiv\\Program.cs",
+              "ToolTip": "C:\\Projects\\Lessons\\Massiv\\Massiv\\Program.cs",
+              "RelativeToolTip": "Massiv\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAvwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T18:51:16.429Z",
+              "WhenOpened": "2025-11-26T12:21:19.999Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Projects\Lessons\Massiv\Massiv\bin\Debug\net9.0\Massiv.exe
+C:\Projects\Lessons\Massiv\Massiv\bin\Debug\net9.0\Massiv.deps.json
+C:\Projects\Lessons\Massiv\Massiv\bin\Debug\net9.0\Massiv.runtimeconfig.json
+C:\Projects\Lessons\Massiv\Massiv\bin\Debug\net9.0\Massiv.dll
+C:\Projects\Lessons\Massiv\Massiv\bin\Debug\net9.0\Massiv.pdb
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\Massiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\Massiv.AssemblyInfoInputs.cache
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\Massiv.AssemblyInfo.cs
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\Massiv.csproj.CoreCompileInputs.cache
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\Massiv.sourcelink.json
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\Massiv.dll
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\refint\Massiv.dll
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\Massiv.pdb
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\Massiv.genruntimeconfig.cache
+C:\Projects\Lessons\Massiv\Massiv\obj\Debug\net9.0\ref\Massiv.dll
